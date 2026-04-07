@@ -53,10 +53,17 @@ streamlit run fraud_detection.py
 
 ## Tools and Libraries
 -> Python
+
 -> Pandas
+
 -> Scikit-learn
+
 -> XGBoost
+
 -> Streamlit
+
 -> Matplotlib
+
 -> Seaborn
+
 -> Joblib
